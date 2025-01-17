@@ -37,4 +37,4 @@ override.tf.json
 terraform.rc
 
 #Arquivos do terraform init
-.terraform
+.terraform/
